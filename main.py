@@ -1,8 +1,8 @@
 import requests
 from datetime import datetime
 
-USERNAME = "waringa"
-TOKEN = "lkjhgfdsa"
+USERNAME = # Your pixela username
+TOKEN = # Your pixela preferred token
 GRAPH_ID = "graph1"
 
 pixela_endpoint = "https://pixe.la/v1/users"
