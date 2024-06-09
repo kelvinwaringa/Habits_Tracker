@@ -19,8 +19,8 @@ This Python script uses the Pixela API to track your cycling habit. Pixela is a 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/cycling-habit-tracker.git
-   cd cycling-habit-tracker
+   git clone https://github.com/yourusername/main.git
+   cd main
 2. Install the required library:
    ```
    pip install request
@@ -29,7 +29,7 @@ This Python script uses the Pixela API to track your cycling habit. Pixela is a 
 
 Run the script:
 
-    python cycling_habit_tracker.py
+    python main.py
   
 When prompted, enter the number of kilometers you cycled today. The script will log the data to your Pixela graph.
   
