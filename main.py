@@ -1,7 +1,6 @@
 import requests
 from datetime import datetime
-qwerty;(''
-        'oiy;u.,umgfnbdvscartyug')wd4fetryuyitkur
+
 USERNAME = # Your pixela username
 TOKEN = # Your pixela preferred token
 GRAPH_ID = "graph1"
